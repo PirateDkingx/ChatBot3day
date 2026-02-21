@@ -1,6 +1,8 @@
 Study Bot: AI-Powered Study Assistant
 This project is an AI-powered chatbot designed to help users with academic and learning-related questions. It features a conversational memory system that allows it to remember previous interactions for contextual responses.
 
+For Testing heres my fastapi url- http://98.88.247.78:8000/docs 
+(It is hosted on aws cloud it will be only be available for a week after the release of project )
 
 🚀 Features
 
