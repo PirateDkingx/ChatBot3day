@@ -32,9 +32,6 @@ AI Orchestration: LangChain & LangChain Groq
 Database: MongoDB (Atlas/Local) 
 
 
-
-Deployment: Render 
-
 📋 Prerequisites
 Before running the project, ensure you have the following:
 
